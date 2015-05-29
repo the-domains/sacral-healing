@@ -13,7 +13,7 @@ publisher:
   url: null
   favicon: null
 datePublished: "2015-05-29T21:09:11.890Z"
-dateModified: "2015-05-29T21:09:11.890Z"
+dateModified: "2015-05-29T21:10:10.931Z"
 sourcePath: _posts/2015-05-29-seksakpom.md
 published: true
 _type: Article
