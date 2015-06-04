@@ -12,8 +12,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-datePublished: "2015-06-04T01:59:16.220Z"
-dateModified: "2015-06-04T01:59:16.220Z"
+datePublished: "2015-06-04T04:01:52.041Z"
+dateModified: "2015-06-04T04:01:52.041Z"
 sourcePath: _posts/2015-06-04-mesto-sily.md
 published: true
 _type: Article
