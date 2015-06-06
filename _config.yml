@@ -1,7 +1,7 @@
 name: null
 favicon: null
-layout_spectrum: 0.79386
-typography_spectrum: 0.10526
+layout_spectrum: 0.5
+typography_spectrum: 0.81579
 cta:
   domain: null
   bucket: null
